@@ -42,3 +42,4 @@ inc/
 # End of https://www.gitignore.io/api/perl
 #
 anatofuz-web.conf
+local/
